@@ -11,5 +11,5 @@ Double click or run the prototypes via console:
 - java -jar ddo-playground-v1.jar
 
 In case you had to additionally download the JavaFX SDK, you have to run the protoypes via console:
-- java --module-path "<path to your JavaFX SDK lib folder>" --add-modules javafx.controls,javafx.fxml -jar ddo-playground-basic.jar
-- java --module-path "<path to your JavaFX SDK lib folder>" --add-modules javafx.controls,javafx.fxml -jar ddo-playground-v1.jar
+- java --module-path "\<path to your JavaFX SDK lib folder\>" --add-modules javafx.controls,javafx.fxml -jar ddo-playground-basic.jar
+- java --module-path "\<path to your JavaFX SDK lib folder\>" --add-modules javafx.controls,javafx.fxml -jar ddo-playground-v1.jar
