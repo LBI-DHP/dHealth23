@@ -1,10 +1,24 @@
 # dHealth23
 
-Usability Test 1 - Prototype: https://resources.lbi-dhp.at/mlm4jitais/ddo-playground-basic.jar 
+## Usability testing of a multi-level modeling framework for just-in-time adaptive interventions (JITAIs) in mobile health
 
-Usability Test 2 - Prototype: https://resources.lbi-dhp.at/mlm4jitais/ddo-playground-v1.jar
+### Usability test 1
 
-To run the prototypes, you need at least (Oracle) JDK version 18 (e.g., see https://www.oracle.com/java/technologies/downloads/). In case your JDK (e.g., OpenJDK) does not come with the JavaFX SDK, you also need to download it (e.g., see https://openjfx.io/).
+- [Slides and tasks](https://github.com/LBI-DHP/dHealth23/blob/main/Usability%20Test%201%20-%20Basic%20Multi-Level%20Modeling%20in%20RDF%20and%20SHACL.pdf)
+- [Prototype](https://resources.lbi-dhp.at/mlm4jitais/ddo-playground-basic.jar)
+- [Survey](https://github.com/LBI-DHP/dHealth23/blob/main/Usability%20Test%201%20-%20Survey.pdf)
+
+### Usability test 2
+
+- [Slides and tasks](https://github.com/LBI-DHP/dHealth23/blob/main/Usability%20Test%202%20-%20Deep%20Domain%20Object%20plus.pdf)
+- [Prototype](https://resources.lbi-dhp.at/mlm4jitais/ddo-playground-v1.jar)
+- [Survey](https://github.com/LBI-DHP/dHealth23/blob/main/Usability%20Test%202%20-%20Survey.pdf)
+
+### Prototypes
+
+Please note that we used two different versions of the prototype for the usability tests. For the first usability test, we reduced the functionality and provided a fixed model. For the second usability test, we provided the prototype with its full functionality.
+
+To run the prototypes, you need at least (Oracle) JDK version 18 (e.g., see [here](https://www.oracle.com/java/technologies/downloads/)). In case your JDK does not come with the JavaFX SDK (e.g., OpenJDK), you also need to download the JavaFX SDK (e.g., see [here](https://openjfx.io/)).
 
 Double click or run the prototypes via console:
 - java -jar ddo-playground-basic.jar
